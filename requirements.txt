@@ -1,0 +1,10 @@
+numpy
+matplotlib
+mediapipe
+torch 
+torchvision 
+torchaudio
+scikit-learn
+collections
+pickle
+configparser
