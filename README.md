@@ -22,12 +22,8 @@ The dataset is collected similar to YawDDDatset for 3 classes Normal,Eye close a
 
 Below is the Folder structure.
 
-Customdataset
-    - Normal
-    - Eye close
-    - Yawning
-        - Yawning_frame0.avi
-        - Yawning_frame1.avi
+![image](https://github.com/user-attachments/assets/68815eb3-6f7f-427e-953e-a86a9ec9bb41)
+
 
 To train on existing preprocessing,
 
